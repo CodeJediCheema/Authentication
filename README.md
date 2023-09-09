@@ -1,8 +1,12 @@
 # Netflix GPT
 - create-react-app
 -Configured TailwindCSS
+-Routing
 - Header
 -Login Forms
+-Form Validation
+-Firebase setup
+- Firebase Authentication
 
 
 # Features
